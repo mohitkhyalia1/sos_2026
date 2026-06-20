@@ -25,13 +25,5 @@ Missing values, scaling, encoding, train-test mechanics, class imbalance, and ED
 - Accuracy alone can hide a model that does nothing useful — check class balance first
 - These checks carried over to text data with no real changes
 
-## Relation to Spaceship Titanic
-
-- Missing value approach (median/mode) carries over to Week 7
-- HomePlanet / Destination have no natural order → one-hot, same as Property_Area here
-- Spending columns are likely skewed/outlier-prone → same scaling caution as the income experiment
-- Check "Transported" class balance before assuming it
-- Fit any scaler/encoder on training data only
-
 ---
 *Week 02 — Mohit Khyalia, Summer of Science 2026, IIT Bombay*
