@@ -4,7 +4,7 @@ Mohit Khyalia | Summer of Science 2026 | IIT Bombay
 
 ---
 
-Linear and Logistic Regression built from scratch, SVM basics, overfitting/underfitting, cross-validation, the full evaluation metric set, and three applied mini-projects.
+Linear and Logistic Regression built from scratch, SVM basics, overfitting/underfitting, cross-validation, model evaluation, and applied machine learning workflows on real datasets.
 
 ## Notebooks
 
