@@ -64,6 +64,7 @@ Connects the earlier preprocessing and math concepts to supervised learning work
 - Cross-validation, train-validation-test split, K-Fold CV, model comparison, and GridSearchCV
 - Evaluation metrics: accuracy, precision, recall, F1, ROC curve, and threshold tuning
 - Mini-projects:
+  - Heart disease prediction using Logistic Regression
   - House price prediction using Linear Regression
   - Loan status prediction using SVM
 
@@ -76,6 +77,7 @@ The `dataset/` directory contains the local CSV files used by the notebooks:
 | `sonar data.csv` | 207 | 61 | Rock vs mine classification |
 | `diabetes.csv` | 768 | 9 | Diabetes prediction |
 | `spam_mail_data.csv` | 5,572 | 2 | Spam/ham text classification |
+| `heart_disease_data.csv` | 1,025 | 14 | Heart disease classification |
 | `house_price_data.csv` | 1,460 | 81 | House price regression |
 | `loan_status_data.csv` | 614 | 13 | Loan approval classification |
 
@@ -84,6 +86,7 @@ The `dataset/` directory contains the local CSV files used by the notebooks:
 - **Rock vs Mine Prediction**: Logistic Regression classification on sonar signal features.
 - **Diabetes Prediction**: SVM and Logistic Regression comparison with feature scaling.
 - **Spam Mail Prediction**: Text cleaning, TF-IDF vectorization, and Logistic Regression.
+- **Heart Disease Prediction**: Logistic Regression classification on UCI Heart Disease features.
 - **House Price Prediction**: Regression workflow with scaling, residual analysis, and feature coefficients.
 - **Loan Status Prediction**: Missing-value handling, encoding, scaling, and SVM kernel comparison.
 

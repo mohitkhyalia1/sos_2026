@@ -4,7 +4,7 @@ Mohit Khyalia | Summer of Science 2026 | IIT Bombay
 
 ---
 
-Linear and Logistic Regression built from scratch, SVM basics, overfitting/underfitting, cross-validation, model evaluation, and applied machine learning workflows on real datasets.
+Linear and Logistic Regression built from scratch, SVM basics, overfitting/underfitting, cross-validation, the full evaluation metric set, and three applied mini-projects.
 
 ## Notebooks
 
@@ -14,6 +14,7 @@ Linear and Logistic Regression built from scratch, SVM basics, overfitting/under
 - **overfitting_underfitting_bias_variance.ipynb** — polynomial regression at varying complexity, train/test error curves, bias-variance via repeated sampling
 - **cross_validation_and_model_selection.ipynb** — train/validation/test split, K-Fold CV, model comparison, basic GridSearchCV
 - **evaluation_metrics.ipynb** — confusion matrix, accuracy/precision/recall/F1, ROC curve, threshold effects, imbalanced data example
+- **heart_disease_prediction.ipynb** — Logistic Regression on the UCI Heart Disease dataset
 - **house_price_prediction.ipynb** — Linear Regression on a housing dataset, MSE/R2, residual analysis
 - **loan_status_prediction.ipynb** — missing values, encoding, scaling, stratified split, SVM classifier
 
