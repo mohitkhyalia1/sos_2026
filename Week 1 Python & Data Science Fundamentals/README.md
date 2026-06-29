@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 Python & Data Science Fundamentals
 
 Summer of Science 2026 | IIT Bombay
 
